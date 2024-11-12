@@ -1,0 +1,16 @@
+# Ignore virtual environments
+aml-env/
+.env/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore VSCode workspace files
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor backup files
+*~
