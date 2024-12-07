@@ -1,4 +1,4 @@
-Final Project for COMS4995 Applied Machine Learning by Group 20
+Final Project for COMS4995 Applied Machine Learning by Group 20:
 Shreya Kurdukar, Ariel Lin, Yueer Liu, David Wu, Michael Yakubov
 
 GitHub Link: https://github.com/myakubov18/AML-Group-20-Project/
